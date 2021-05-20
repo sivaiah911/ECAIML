@@ -9,7 +9,7 @@ Writing in Markdown is not that __bold__!
 
 Link to  [File 2](File2.md)
 
-this is link to [Google](www.google.co.in)
+this is link to [Google](https://www.google.co.in)
 
 Your Photo:
 
