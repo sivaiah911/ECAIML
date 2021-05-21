@@ -14,3 +14,5 @@ this is link to [Google](https://www.google.co.in)
 Your Photo:
 
 ![GITAM](gitam-logo1.jpg)
+
+Changed
